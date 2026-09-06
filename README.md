@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=38&duration=1&pause=1000&color=8B5CF6&center=true&vCenter=true&width=950&height=65&lines=WEB+DEVELOPER+%E2%80%A2+AI+DEVELOPER+%E2%80%A2+ML+DEVELOPER" alt="Web Developer AI Developer ML Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=38&duration=1800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&height=70&lines=WEB+DEVELOPER;AI+DEVELOPER;ML+DEVELOPER" alt="Developer Domains" />
 
 <br>
 

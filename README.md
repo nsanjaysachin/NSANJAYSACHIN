@@ -2,15 +2,19 @@
 
 # 👋 Hi, I'm Sanjay Sachin
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=38&duration=2200&pause=900&color=00F5FF&center=true&vCenter=true&width=850&height=70&lines=WEB+DEVELOPER;AI+DEVELOPER;ML+DEVELOPER" alt="Developer Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=1800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=%3E+BUILDING+FOR+THE+WEB_%3B%3E+EXPLORING+ARTIFICIAL+INTELLIGENCE_%3B%3E+ENGINEERING+MACHINE+LEARNING_%3B%3E+TURNING+IDEAS+INTO+CODE_" alt="Sanjay Sachin Developer Roles" />
+
+<br>
+
+🎓 **M.Tech in Computer Science & Engineering — 3rd Year**
+
+<br><br>
 
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
-
-🎓 **M.Tech in Computer Science & Engineering — 3rd Year Student**
 
 I'm a developer interested in building **useful software and intelligent applications**.
 
@@ -100,7 +104,7 @@ Exploring:
 A computer vision project focused on detecting and analyzing traffic using visual data.
 
 <a href="https://github.com/nsanjaysachin">
-<img src="https://img.shields.io/badge/View_Project-00F5FF?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
 <br><br>

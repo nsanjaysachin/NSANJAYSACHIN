@@ -1,24 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=300&pause=180&color=36BCF7&center=true&vCenter=true&width=650&lines=S;Sa;San;Sanj;Sanja;Sanjay;Sanjay+S;Sanjay+Sa;Sanjay+Sac;Sanjay+Sach;Sanjay+Sachi;Sanjay+Sachin" alt="Sanjay Sachin" />
+# 👋 Hi, I'm Sanjay Sachin
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Web+Developer;AI+Developer;ML+Developer;Computer+Vision+Enthusiast" alt="Developer Roles" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,opencv,git,github,vscode" />
-
-<br><br>
-
-<a href="https://github.com/nsanjaysachin">
-<img src="https://img.shields.io/github/followers/nsanjaysachin?style=for-the-badge&logo=github&label=Followers" />
-</a>
-&nbsp;
-<a href="https://github.com/nsanjaysachin?tab=repositories">
-<img src="https://img.shields.io/badge/🚀_Projects-Explore-blue?style=for-the-badge" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Web+Developer;AI+Developer;ML+Developer" alt="Developer Roles" />
 
 </div>
 
@@ -30,11 +14,10 @@ I'm a developer interested in building **useful software and intelligent applica
 
 My main areas of interest are:
 
-* 🌐 **Web Development** — creating modern and responsive web experiences
-* 🤖 **Artificial Intelligence** — exploring intelligent applications and AI-powered solutions
-* 🧠 **Machine Learning** — learning and building ML-based systems
-* 👁️ **Computer Vision** — working with images, video and visual data
-* 🚀 **Project Building** — turning ideas into working prototypes
+- 🌐 **Web Development** — creating modern and responsive web experiences
+- 🤖 **Artificial Intelligence** — exploring intelligent applications and AI-powered solutions
+- 🧠 **Machine Learning** — learning and building ML-based systems
+- 🚀 **Project Building** — turning ideas into working prototypes
 
 I believe in learning by building:
 
@@ -52,10 +35,10 @@ I believe in learning by building:
 
 Building websites and web applications with a focus on:
 
-* Responsive UI
-* Clean design
-* Interactive experiences
-* Practical functionality
+- Responsive UI
+- Clean design
+- Interactive experiences
+- Practical functionality
 
 </td>
 
@@ -65,10 +48,10 @@ Building websites and web applications with a focus on:
 
 Exploring:
 
-* Machine Learning
-* Computer Vision
-* AI-powered applications
-* Real-world problem solving
+- Machine Learning
+- Artificial Intelligence
+- AI-powered applications
+- Real-world problem solving
 
 </td>
 </tr>
@@ -90,10 +73,10 @@ Exploring:
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### 🤖 AI / ML & Computer Vision
+### 🤖 AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,opencv" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### 🔧 Tools
@@ -168,14 +151,11 @@ Building websites and web applications that combine clean interfaces with useful
 
 ## 🎯 Currently
 
-```text
-🌐 Building Web Projects
-🤖 Exploring AI & Machine Learning
-👁️ Learning Computer Vision
-🚀 Turning ideas into working prototypes
-🏆 Exploring hackathons & technical challenges
-📚 Constantly learning something new
-```
+- 🌐 Building web applications
+- 🤖 Exploring AI & Machine Learning
+- 🚀 Turning ideas into working prototypes
+- 🏆 Exploring hackathons & technical challenges
+- 🧩 Improving my problem-solving skills
 
 ---
 
@@ -183,13 +163,13 @@ Building websites and web applications that combine clean interfaces with useful
 
 <div align="center">
 
-|     Area    | Focus                                  |
-| :---------: | :------------------------------------- |
-|    🌐 Web   | Frontend & Web Applications            |
-|  🐍 Python  | Programming & AI/ML                    |
-|   🤖 AI/ML  | Machine Learning & Intelligent Systems |
-|    👁️ CV   | Image & Video Processing               |
-| 🚀 Projects | Real-world Applications                |
+| Area | Focus |
+|:---:|:---|
+| 🌐 Web | Frontend & Web Applications |
+| 🐍 Python | Programming & AI/ML |
+| 🤖 AI | Artificial Intelligence & Intelligent Applications |
+| 🧠 ML | Machine Learning & Model Development |
+| 🚀 Projects | Real-world Applications |
 
 </div>
 

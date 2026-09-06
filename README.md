@@ -1,10 +1,12 @@
 <div align="center">
 
-# 👋 Hey, I'm Sanjay
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Web+Developer;AI+Developer;ML+Developer;Computer+Vision+Enthusiast;Building+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=300&pause=180&color=36BCF7&center=true&vCenter=true&width=650&lines=S;Sa;San;Sanj;Sanja;Sanjay;Sanjay+S;Sanjay+Sa;Sanjay+Sac;Sanjay+Sach;Sanjay+Sachi;Sanjay+Sachin" alt="Sanjay Sachin" />
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Web+Developer;AI+Developer;ML+Developer;Computer+Vision+Enthusiast" alt="Developer Roles" />
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,opencv,git,github,vscode" />
 

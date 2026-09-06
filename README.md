@@ -2,13 +2,15 @@
 
 # 👋 Hi, I'm Sanjay Sachin
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Web+Developer;AI+Developer;ML+Developer" alt="Developer Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=38&duration=2200&pause=900&color=00F5FF&center=true&vCenter=true&width=850&height=70&lines=WEB+DEVELOPER;AI+DEVELOPER;ML+DEVELOPER" alt="Developer Roles" />
 
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
+
+🎓 **M.Tech in Computer Science & Engineering — 3rd Year Student**
 
 I'm a developer interested in building **useful software and intelligent applications**.
 
@@ -98,7 +100,7 @@ Exploring:
 A computer vision project focused on detecting and analyzing traffic using visual data.
 
 <a href="https://github.com/nsanjaysachin">
-<img src="https://img.shields.io/badge/View_Project-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View_Project-00F5FF?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
 <br><br>
@@ -151,6 +153,7 @@ Building websites and web applications that combine clean interfaces with useful
 
 ## 🎯 Currently
 
+- 🎓 Pursuing **M.Tech in Computer Science & Engineering**
 - 🌐 Building web applications
 - 🤖 Exploring AI & Machine Learning
 - 🚀 Turning ideas into working prototypes
@@ -165,6 +168,7 @@ Building websites and web applications that combine clean interfaces with useful
 
 | Area | Focus |
 |:---:|:---|
+| 🎓 M.Tech CSE | Computer Science & Engineering |
 | 🌐 Web | Frontend & Web Applications |
 | 🐍 Python | Programming & AI/ML |
 | 🤖 AI | Artificial Intelligence & Intelligent Applications |

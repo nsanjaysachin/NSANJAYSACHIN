@@ -2,13 +2,15 @@
 
 # 👋 Hi, I'm Sanjay Sachin
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=1800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=%3E+BUILDING+FOR+THE+WEB_%3B%3E+EXPLORING+ARTIFICIAL+INTELLIGENCE_%3B%3E+ENGINEERING+MACHINE+LEARNING_%3B%3E+TURNING+IDEAS+INTO+CODE_" alt="Sanjay Sachin Developer Roles" />
+### 🎓 M.Tech in Computer Science & Engineering — 3rd Year
 
 <br>
 
-🎓 **M.Tech in Computer Science & Engineering — 3rd Year**
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=38&duration=1&pause=1000&color=8B5CF6&center=true&vCenter=true&width=950&height=65&lines=WEB+DEVELOPER+%E2%80%A2+AI+DEVELOPER+%E2%80%A2+ML+DEVELOPER" alt="Web Developer AI Developer ML Developer" />
 
-<br><br>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=40&lines=%3E+BUILDING+FOR+THE+WEB_%3B%3E+EXPLORING+ARTIFICIAL+INTELLIGENCE_%3B%3E+ENGINEERING+MACHINE+LEARNING_%3B%3E+TURNING+IDEAS+INTO+CODE_" alt="Developer Journey" />
 
 </div>
 
@@ -104,7 +106,7 @@ Exploring:
 A computer vision project focused on detecting and analyzing traffic using visual data.
 
 <a href="https://github.com/nsanjaysachin">
-<img src="https://img.shields.io/badge/View_Project-00E5FF?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
@@ -116,7 +118,7 @@ A computer vision project focused on detecting and analyzing traffic using visua
 Building websites and web applications that combine clean interfaces with useful functionality.
 
 <a href="https://github.com/nsanjaysachin?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Explore_Repositories-18181B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -201,7 +203,7 @@ I want to keep improving my skills by building projects that solve
 <div align="center">
 
 <a href="https://github.com/nsanjaysachin">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
